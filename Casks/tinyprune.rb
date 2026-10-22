@@ -1,8 +1,8 @@
 cask "tinyprune" do
-  version "0.2.0"
-  sha256 "dba6deef54f6177b2e93add2b0e5ca829891f0227db3c48ce05bee76d21fa855"
+  version "0.2.1"
+  sha256 "edc0d3c079cbd4acf7632d2c46d5e705eb12871069b25e534fbd74b2b4c8b88f"
 
-  url "https://github.com/navig-me/tinyprune/releases/download/v0.2.0/TinyPrune-0.2.0-homebrew.dmg"
+  url "https://github.com/navig-me/tinyprune/releases/download/v0.2.1/TinyPrune-0.2.1-homebrew.dmg"
   name "TinyPrune"
   desc "Local-first lifecycle-rule tool"
   homepage "https://tinyprune.com/"
